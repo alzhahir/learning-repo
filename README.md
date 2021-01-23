@@ -1,5 +1,5 @@
 # learning-repo
-DEPRECATION NOTICE: THIS REPO HAS MOVED TO alzhahir/learning-repo. Please view the latest code there.
+DEPRECATION NOTICE: THIS REPO HAS MOVED [HERE](https://github.com/alzhahir/learning-repo/). Please view the latest code there.
 
 This repo was created for code learning purposes.
 
