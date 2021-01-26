@@ -1,4 +1,4 @@
-# learning-repo
+# Learning Material Repository
 
 This repository is created for code learning purposes.
 
