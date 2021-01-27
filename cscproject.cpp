@@ -110,7 +110,7 @@ double priceCalc(int prodChoiceArr, int prodQty, double deliveryDistance)
         deliveryDistanceFinal = deliveryDistance - 80;
         deliveryCost = 110 + (deliveryDistanceFinal * 2);
     }
-    else if (deliveryDistance > 20 && deliveryDistance <= 80)
+    else if (deliveryDistance > 20 && deliveryDistance <= 100)
     {
         deliveryDistanceFinal = deliveryDistance - 20;
         deliveryCost = 20 + (deliveryDistanceFinal * 1.5);
